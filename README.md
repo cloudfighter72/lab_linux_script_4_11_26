@@ -1,6 +1,6 @@
 # ☁️ Answers to questions posted by Uhuru
 
-![Blackneto.jpg](/images/afrosamurai.jpg "Class 7 jerMutants - Wolfpack")
+![afrosamurai.jpg](/images/afrosamurai.jpg "Class 7 jerMutants - Wolfpack")
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%E2%89%A51.9-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
