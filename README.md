@@ -1,6 +1,6 @@
 # ☁️ Answers to questions posted by Uhuru
 
-![afrosamurai.jpg](/images/afrosamurai.jpg "Class 7 jerMutants - Wolfpack")
+![afrosamurai.jpg](/images/afrosamurai.jpg "Cloud Proving Grounds - Wolfpack")
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%E2%89%A51.9-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
@@ -11,9 +11,6 @@
 ![Compliance](https://img.shields.io/badge/Compliance-HIPAA_Inspired-purple?style=for-the-badge)
 ![Observability](https://img.shields.io/badge/Observability-CloudWatch_&_Bedrock-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production_Grade-success?style=for-the-badge)
-
-This repository contains links to repos of group members for multiple **Labs for Class 7 Armageddon (1a, 1b, 1c, 1d, 1e, 1f, 1g, 1h, 1i, 2a, 2b, 3a, 3b, and 4)**.  
-Each LAB is tracked in its own branch with unique deliverables and tasks.
 
 ---
 
